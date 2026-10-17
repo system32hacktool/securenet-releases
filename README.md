@@ -1,4 +1,3 @@
-# securenet-releases
 # SecureNet Browser
 
 SecureNet Browser is a fast, secure, and modern web browser developed by **Aurasec Browser Technologies Ltd.**
